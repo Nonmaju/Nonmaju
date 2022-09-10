@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#I'm Jo Yejun majoring in Artificial Intelligence!
+##I'm Jo Yejun majoring in Artificial Intelligence!
 And I am taking "OpenSource SW" lectures
 
 <!--
