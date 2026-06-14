@@ -1,5 +1,3 @@
-### Hi there 👋
-
 I'm Jo Yejun majoring in Artificial Intelligence.
 
 <!--
