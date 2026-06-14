@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-I'm Jo Yejun majoring in Artificial Intelligence!
-And I am taking "OpenSource SW" lectures.
+I'm Jo Yejun majoring in Artificial Intelligence.
 
 <!--
 **Nonmaju/Nonmaju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
