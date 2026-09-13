@@ -20,6 +20,15 @@ AI major, interested in **Computer Vision** and **Mixed Reality (XR)**.
 
 <br clear="both" />
 
+### 🌆 3D Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nonmaju/Nonmaju/main/profile-3d-contrib/profile-night-rainbow.svg" />
+  <img src="https://raw.githubusercontent.com/Nonmaju/Nonmaju/main/profile-3d-contrib/profile-season-animate.svg" alt="3D contribution graph" />
+</picture>
+
+<br>
+
 ### 📌 Featured Projects
 
 - **[Galaxy-XR-Registration](https://github.com/Nonmaju/Galaxy-XR-Registration)** — Android XR app that finds a real object's 3D position via depth camera + on-device YOLO, then registers a 3D mesh onto it using ICP
