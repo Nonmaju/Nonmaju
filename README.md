@@ -2,7 +2,7 @@
 
 AI major, interested in **Computer Vision** and **Mixed Reality (XR)**.
 
-- 🔭 Currently working on: a dashcam-based accident analysis pipeline, and an Android XR 3D object-tracking app
+- 🔭 Currently working on: a dashcam-based accident analysis pipeline
 - 🌱 Interests: Computer Vision, on-device deep learning, Mixed Reality
 
 <br>
