@@ -15,6 +15,7 @@ jobs:
       - uses: yoshi389111/github-profile-3d-contrib@v0.9.3
         env:
           USERNAME: ${{ github.repository_owner }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: Commit & push if changed
         run: |
           git add -A profile-3d-contrib
