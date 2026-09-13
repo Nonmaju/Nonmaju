@@ -1,6 +1,6 @@
 ### 🛠️ Tech Stack
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,opencv,kotlin,androidstudio,git,github" alt="tech stack icons" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,opencv,java,c,sql,kotlin,androidstudio,git,github" alt="tech stack icons" />
 
 <br>
 
