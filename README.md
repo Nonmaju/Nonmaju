@@ -1,5 +1,14 @@
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,opencv,java,c,mysql,kotlin,androidstudio" alt="tech stack icons" />
+<img src="https://skillicons.dev/icons?i=py" width="48" height="48" title="Python" alt="Python" /> 
+<img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" title="PyTorch" alt="PyTorch" /> 
+<img src="https://skillicons.dev/icons?i=opencv" width="48" height="48" title="OpenCV" alt="OpenCV" /> 
+<img src="https://skillicons.dev/icons?i=androidstudio" width="48" height="48" title="Android Studio" alt="Android Studio" /> 
+<img src="https://skillicons.dev/icons?i=kotlin" width="48" height="48" title="Kotlin" alt="Kotlin" /> 
+<img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" title="MySQL" alt="MySQL" /> 
+<img src="https://skillicons.dev/icons?i=java" width="48" height="48" title="Java" alt="Java" /> 
+<img src="https://skillicons.dev/icons?i=c" width="48" height="48" title="C" alt="C" /> 
+<img src="https://skillicons.dev/icons?i=threejs" width="48" height="48" title="JavaScript (Three.js)" alt="JavaScript (Three.js)" /> 
+<img src="https://raw.githubusercontent.com/Nonmaju/Nonmaju/main/icons/langchain.svg" width="48" height="48" title="LangChain" alt="LangChain" />
 
 <br>
 
